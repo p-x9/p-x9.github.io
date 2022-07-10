@@ -5,7 +5,7 @@ Section: Tweaks
 Maintainer: p-x9
 Installed-Size: 416
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./com.p-x9.screenshotresizer_0.0.1-38_iphoneos-arm.deb
+Filename: ./debs/com.p-x9.screenshotresizer_0.0.1-38_iphoneos-arm.deb
 Size: 43180
 MD5sum: 49fda9ee93cca760a2e0aa243dda9aa7
 SHA1: 4e153d86ffb941feba4cb4ae546ec19cd6020a0a
